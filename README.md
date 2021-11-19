@@ -1,2 +1,1 @@
-# BrightenK.github.
-io
+# BrightenK.io
